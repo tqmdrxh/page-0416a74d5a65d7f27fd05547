@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-b9e415fc62.lianyuanai.cn/sitemap.xml
